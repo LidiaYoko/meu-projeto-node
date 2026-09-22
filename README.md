@@ -37,3 +37,11 @@ No terminal:
 - 💍 Senhor dos Anéis  
 - 🧙 O Hobbit  
 - ⚔️ Tróia
+  
+## 🖥️ Exemplo de execução
+
+Abaixo, o resultado do código rodando no terminal:
+
+![Execução do projeto](https://github.com/LidiaYoko/meu-projeto-node/blob/main/image.png)
+
+> Resultado das funções `filter`, `map` e `find` executadas com Node.js.
